@@ -1,0 +1,17 @@
+body {
+    background-color: #0A1622;
+}
+
+.title {
+    color: #8cb9c5;
+}
+
+input.movie_input,
+input.movie_input:focus {
+    background-color: transparent;
+    color: white;
+}
+
+input.movie_input::placeholder {
+    color: white;
+}
